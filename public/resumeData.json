@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Abhishek Shah",
+    "occupation": "Frontend Developer",
+    "description": "Frontend Developer and  Actively looking for a job opportunity in Frontend role",
+    "image": "abhi.jpg",
+    "bio": "My name is Abhishek, I'm a Frontend  Developer. Currently I'm looking for  Job change where i can Enhance my Knowledge ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abhishekaman7697@gmail.com",
+    "phone": "+91-7697605520",
+    "address": {
+      "street": "Sector 47 Subhash chowk Sohna road gurgaon",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "zip": "12001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abhishek.shahwal.9",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhishek-shah-387156137/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abhishek_aman_shah/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Abhishek-shah-coding-ninja",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Sri Satya Sai University",
+        "degree": " Bachelor of Engineering ( Computer Science)",
+        "graduated": "Sep 2020",
+        "description": "Graduated with Distinction 7.9 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "PANAMOURE INDIA LIMITED | Gurgaon",
+        "title": "Front-End Developer - Intern",
+        "years": "Jan 2021 - July 2021",
+        "description": "Developed, implemented, and maintained internal web applications which is based on Angular and Ionic for mobile development , where user can manage and stored the timber wood details and stock ,  "
+      },{
+        
+          "company": "TEKONIKA TECHNOLOGIES | Gurgaon",
+          "title": "Associate Developer",
+          "years": "Aug 2021 - Present| Gurgaon, Haryana",
+          "description": "Developed a web-application which allows users to scheduled bookings for trains, mainly we have used mongo-DB and Node for backend development we have use Tech stack - React-Js, Next-Js, Node-Js"
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": ""
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://mern-tiktok-da438.web.app/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": ""
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here i have written some nice things that someone has said about me .",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Abhishek shah must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
